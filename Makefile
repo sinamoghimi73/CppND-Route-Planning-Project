@@ -3,7 +3,7 @@ all: format test build
 
 .PHONY: format
 format:
-	clang-format src/*.cpp -i
+	clang-format src/* -i
 
 .PHONY: build
 build:
