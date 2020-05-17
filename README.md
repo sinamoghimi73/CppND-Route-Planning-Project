@@ -85,5 +85,5 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-Please note that, each time you make a change in your code you will need to **`make`**, then use **`./text`** executable!
+Please note that, each time you make a change in your code you will need to **`make`**, then use **`./test`** executable!
 
