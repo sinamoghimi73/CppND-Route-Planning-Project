@@ -30,7 +30,7 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
   * Installation instructions for all operating systems can be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md)
   * This library must be built in a place where CMake `find_package` will be able to find it
 
-### IO2D For UBUNTU 18.04
+### IO2D for UBUNTU 18.04
 
 If you have got Ubuntu distribution, there is one more step to have IO2D library fully functional. Therefore, I will write all the steps again.
 
@@ -55,6 +55,11 @@ cmake --config Debug "-DCMAKE_BUILD_TYPE=Debug" ..
 cmake --build .
 sudo make install
 ```
+
+### IO2D for macOS
+
+Please visit: 
+(https://github.com/mylescallan/OpenStreetMaps_C-/blob/master/README.md)
 
 
 ## Compiling and Running
